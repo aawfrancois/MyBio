@@ -1,0 +1,16 @@
+Question 1
+Reponse : LinearLayout
+
+Question 2
+Reponse : TextView > TextView, ImageView, ScrollView
+
+Question 3
+Reponse : True
+
+
+Question 4
+Reponse : False
+
+
+Question 5
+Reponse : ImageView
